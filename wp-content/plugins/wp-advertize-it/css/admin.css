@@ -1,0 +1,112 @@
+.settings_page_wpai_settings table.form-table {
+    margin: 1em 0;
+}
+
+.settings_page_wpai_settings .form-table th {
+    width: 265px !important;
+    vertical-align: middle;
+}
+
+.settings_page_wpai_settings .form-table td, .settings_page_wpai_settings .form-table th {
+    padding-bottom: 0;
+    padding-top: 5px;
+}
+
+.settings_page_wpai_settings .underline {
+    text-decoration: underline
+}
+
+.settings_page_wpai_settings ul.disc-list {
+    list-style: disc inside none;
+}
+
+.settings_page_wpai_settings .ace_editor {
+    min-height: 150px;
+}
+.settings_page_wpai_settings textarea {
+    margin-top: 0;
+}
+
+.settings_page_wpai_settings #before-blocks + table.form-table > tbody > tr {
+    border-bottom: 1.7em solid transparent;
+}
+
+/* ah */
+#wpbody .panel>.panel-heading {
+    color: #333;
+    background-color: #d5d5d5;
+    border-color: #ddd;
+}
+
+.nav>li>li>a {
+    position: relative;
+    display: block;    
+    color:white;
+    padding: 5px 10px;
+}
+
+.nav>li>li{
+    margin-bottom: -1px;
+    border: 0;
+    /*float: right;
+    background-color: #6dd96d;
+    margin-left: 50px;*/
+}
+.nav>li.btn{
+    margin-left: 50px;
+    padding: 0;
+    margin-top:5px;
+}
+
+#wpai-settings{
+	min-width:1000px;
+}
+
+.wpai-form-inline-captions input.form-control, .wpai-form-inline-captions .wpai-form-caption{
+	display: inline;
+	width: auto;
+	font-weight: bold;
+}
+
+.wpai-form-inline-captions input[type=checkbox]{
+	display: inline-block;
+}
+
+.wpai-input-container{
+	margin: 3px 0;
+}
+
+.form-control.ng-invalid{
+	background-color: #ff6666;
+}
+
+.wpai-pagination-cont .pagination-sm{
+	margin: 6px 0 0 10px;
+}
+
+.wpai-pagination-cont input[type=number]{
+	width:50px;
+}
+
+.wpai-pagination-cont input[type=button]{
+	margin-left:10px;
+}
+
+.wpai-block-promote{
+	background-color: #ddd;
+	border-radius:5px;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+
+.glyphicon-warning-sign{
+color:#E08A1E;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.alignright {
+    float: right;
+}

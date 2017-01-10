@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpai\n"
+"POT-Creation-Date: 2015-11-23 09:03+0100\n"
+"PO-Revision-Date: 2015-11-23 09:03+0100\n"
+"Last-Translator: Henri Benoit <hb@amazingweb.de>\n"
+"Language-Team: amazingweb GmbH\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/wp-advertize-it.php:375 classes/wpai-widget.php:65
+msgid "Ad Block:"
+msgstr "Block de pub:"
+
+#: classes/wpai-db.php:31
+msgid "Placement read successfully!"
+msgstr "Emplacement récupéré avec succès!"
+
+#: classes/wpai-db.php:32 classes/wpai-db.php:74 classes/wpai-db.php:138
+#: classes/wpai-db.php:167 classes/wpai-db.php:213 classes/wpai-db.php:242
+#: classes/wpai-db.php:275 classes/wpai-db.php:351
+#: classes/wpai-settings.php:406 classes/wpai-settings.php:425
+#: classes/wpai-settings.php:444 classes/wpai-settings.php:466
+#: classes/wpai-settings.php:488 classes/wpai-settings.php:503
+#: classes/wpai-settings.php:527 classes/wpai-settings.php:542
+#: classes/wpai-settings.php:548
+msgid "SUCCESS"
+msgstr "SUCCES"
+
+#: classes/wpai-db.php:34 classes/wpai-db.php:76 classes/wpai-db.php:140
+#: classes/wpai-db.php:165 classes/wpai-db.php:207 classes/wpai-db.php:215
+#: classes/wpai-db.php:244 classes/wpai-db.php:277 classes/wpai-db.php:353
+#: classes/wpai-settings.php:408 classes/wpai-settings.php:427
+#: classes/wpai-settings.php:446
+msgid "ERROR"
+msgstr "ERREUR"
+
+#: classes/wpai-db.php:34
+msgid "Error is occured by reading placements!"
+msgstr "Une erreur s'est produite en lisant les emplacements!"
+
+#: classes/wpai-db.php:74 classes/wpai-db.php:138
+msgid "Placement saved successfully!"
+msgstr "Emplacements sauvegardés avec succès!"
+
+#: classes/wpai-db.php:76 classes/wpai-db.php:140 classes/wpai-db.php:165
+#: classes/wpai-db.php:207 classes/wpai-db.php:215 classes/wpai-db.php:244
+#: classes/wpai-db.php:277 classes/wpai-db.php:353
+msgid "Error is occured!"
+msgstr "Une erreur s'est produite!"
+
+#: classes/wpai-db.php:167
+msgid "Blocks retrieved successfully!"
+msgstr "Blocs récupérés avec succès!"
+
+#: classes/wpai-db.php:213 classes/wpai-db.php:275
+msgid "Block saved successfully!"
+msgstr "Bloc correctement sauvegardé!"
+
+#: classes/wpai-db.php:242
+msgid "Block removed successfully!"
+msgstr "Bloc correctement supprimé!"
+
+#: classes/wpai-db.php:351
+msgid "Settings saved successfully!"
+msgstr "Réglages sauvegardés avec succès!"
+
+#: classes/wpai-image-widget.php:16
+msgid "Image Ad"
+msgstr "Annonce photo"
+
+#: classes/wpai-image-widget.php:17
+msgid "WP Advertize It Image Ad"
+msgstr "WP Advertize It Annonce Photo"
+
+#: classes/wpai-image-widget.php:51 classes/wpai-widget.php:49
+msgid "New title"
+msgstr "Nouveau titre"
+
+#: classes/wpai-image-widget.php:79 classes/wpai-widget.php:59
+msgid "Title:"
+msgstr "Titre:"
+
+#: classes/wpai-image-widget.php:99
+msgid "Description:"
+msgstr "Description:"
+
+#: classes/wpai-image-widget.php:103
+msgid "Enter a description here"
+msgstr "Entrez une description ici"
+
+#: classes/wpai-image-widget.php:105
+msgid "Link:"
+msgstr "Lien:"
+
+#: classes/wpai-image-widget.php:109
+msgid "Enter a link here"
+msgstr "Entrez un lien ici"
+
+#: classes/wpai-image-widget.php:115
+msgid "Resize to Max Width."
+msgstr "Maximiser"
+
+#: classes/wpai-image-widget.php:121
+msgid "Open in new window."
+msgstr "Ouvrir dans une nouvelle fenêtre"
+
+#: classes/wpai-settings.php:306
+msgid "Home page below title"
+msgstr "Sur la page principale sous le titre"
+
+#: classes/wpai-settings.php:307
+msgid "Posts below title"
+msgstr "Sur les articles sous le titre"
+
+#: classes/wpai-settings.php:308
+msgid "Posts below content"
+msgstr "Sur les articles sous le contenu"
+
+#: classes/wpai-settings.php:309
+msgid "Posts below comments"
+msgstr "Sur les articles sous les commentaires"
+
+#: classes/wpai-settings.php:310
+msgid "Pages below title"
+msgstr "Sur les pages sous le titre"
+
+#: classes/wpai-settings.php:311
+msgid "Pages below content"
+msgstr "Sur les pages sous le contenu"
+
+#: classes/wpai-settings.php:312
+msgid "Pages below comments"
+msgstr "Sur les pages sous les commentaires"
+
+#: classes/wpai-settings.php:313
+msgid "Middle of post"
+msgstr "Milieu d'article"
+
+#: classes/wpai-settings.php:314
+msgid "Middle of page"
+msgstr "Milieu de page"
+
+#: classes/wpai-settings.php:315
+msgid "Before last post paragraph"
+msgstr "Avant le dernier paragraphe de l'article"
+
+#: classes/wpai-settings.php:316
+msgid "After first page paragraph"
+msgstr "Après le premier paragraphe de la page"
+
+#: classes/wpai-settings.php:317
+msgid "Before last page paragraph"
+msgstr "Avant le dernier paragraphe de la page"
+
+#: classes/wpai-settings.php:318
+msgid "After first post paragraph"
+msgstr "Après le premier paragraphe de l'article"
+
+#: classes/wpai-settings.php:319
+msgid "Between posts"
+msgstr "Entre les articles"
+
+#: classes/wpai-settings.php:320
+msgid "Above everything"
+msgstr "Au dessus de tout"
+
+#: classes/wpai-settings.php:321
+msgid "Below footer"
+msgstr "Sous le pied de page"
+
+#: classes/wpai-settings.php:406
+msgid "Settings retrieved successfully!"
+msgstr "Réglages récupérés avec succès!"
+
+#: classes/wpai-settings.php:408
+msgid "Error: settings could not be retrieved!"
+msgstr "Erreur: les réglages non pas pu être lus!"
+
+#: classes/wpai-settings.php:425
+msgid "Tags retrieved  successfully!"
+msgstr "Mots clés récupérés avec succès!"
+
+#: classes/wpai-settings.php:427
+msgid "Error: tags could not be retrieved!"
+msgstr "Erreur: les mots clés non pas pu être lus!"
+
+#: classes/wpai-settings.php:444
+msgid "Categories retrieved  successfully!"
+msgstr "Catégories récupérées avec succès!"
+
+#: classes/wpai-settings.php:446
+msgid "Error: categories could not be retrieved!"
+msgstr "Erreur: les catégories non pas pu être lues!"
+
+#: classes/wpai-settings.php:466
+msgid "Users retrieved  successfully!"
+msgstr "Utilisateurs récupérés avec succès!"
+
+#: classes/wpai-settings.php:488
+msgid "Post formats retrieved  successfully!"
+msgstr "Formats d'article récupérés avec succès!"
+
+#: classes/wpai-settings.php:503
+msgid "Post types retrieved  successfully!"
+msgstr "Types d'article récupérés avec succès!"
+
+#: classes/wpai-settings.php:527 classes/wpai-settings.php:542
+msgid "Languages retrieved  successfully!"
+msgstr "Langues récupérés avec succès!"
+
+#: classes/wpai-settings.php:548
+msgid "Languages not defined!"
+msgstr "Langues non-définies!"
+
+#: classes/wpai-widget.php:16 views/templates/placements.php:19
+msgid "Ad Block"
+msgstr "Bloc de pub"
+
+#: classes/wpai-widget.php:17
+msgid "WP Advertize It"
+msgstr "WP Advertize It"
+
+#: views/templates/blocks.php:15
+msgid "Ads-Block Name"
+msgstr "Nom du bloc"
+
+#: views/templates/blocks.php:24
+msgid "Promote the Ad Block"
+msgstr "Promouvoir le bloc d'annonce"
+
+#: views/templates/blocks.php:31
+msgid "Default Ads"
+msgstr "Annonces par défaut"
+
+#: views/templates/blocks.php:31
+msgid " of "
+msgstr "de"
+
+#: views/templates/blocks.php:31 views/templates/blocks.php:69
+#: views/templates/blocks.php:73 views/templates/preview.php:15
+msgid "Preview"
+msgstr "Aperçu"
+
+#: views/templates/blocks.php:34
+msgid ""
+"Not all ads javascripts support rotation (writing into document from an "
+"asynchronously loaded javascript). Test it."
+msgstr ""
+"Pas tous les annonces javascripts prennent en charge la rotation (écrire "
+"dans le document depuis un script chargé de manière asynchrone). Doit être "
+"testé."
+
+#: views/templates/blocks.php:39
+msgid "Rotate Ads"
+msgstr "Alterner les annonces"
+
+#: views/templates/blocks.php:40
+msgid "every"
+msgstr "tous"
+
+#: views/templates/blocks.php:40
+msgid "sec"
+msgstr "sec"
+
+#: views/templates/blocks.php:41
+msgid "Add Ads"
+msgstr "Ajouter annonces"
+
+#: views/templates/blocks.php:42
+msgid "Remove Ads"
+msgstr "Supprimer"
+
+#: views/templates/blocks.php:54
+msgid "Promotion duration (sec)"
+msgstr "Durée de la promotion (sec)"
+
+#: views/templates/blocks.php:60
+msgid "Show promotion every (sec)"
+msgstr "Montrer la promotion pendant (sec)"
+
+#: views/templates/blocks.php:61
+msgid "Negative number or 0 stops the promotion"
+msgstr "Zéro ou un nombre négatif pour arrêter la promotion"
+
+#: views/templates/blocks.php:65
+msgid "Show only if not sold currently"
+msgstr "Afficher seulement si pas vendu actuellement"
+
+#: views/templates/blocks.php:69
+msgid "Currently sold Ads"
+msgstr "Annonces actuellement vendues"
+
+#: views/templates/blocks.php:70
+msgid ""
+"If the Ad is not empty, the 'Default ads' will be not shown to your "
+"visitors. The promotion ad can be still shown."
+msgstr ""
+"Si l'annonce n'est pas vide, les « annonces par défaut » ne seront pas "
+"affichées. L'annonce de promotion peut toujours montré."
+
+#: views/templates/blocks.php:73
+msgid "Block's self promotion"
+msgstr "Auto-promotion"
+
+#: views/templates/blocks.php:79
+msgid "Delete Block"
+msgstr "Supprimer le bloc"
+
+#: views/templates/blocks.php:80 views/templates/placements.php:38
+#: views/templates/settings.php:13
+msgid "Reset Changes"
+msgstr "Réinitialiser"
+
+#: views/templates/blocks.php:81 views/templates/placements.php:39
+#: views/templates/settings.php:14
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: views/templates/info.php:5
+msgid "Inserting ad blocks in your theme"
+msgstr "Ajouter des blocs d'annonces dans le thème"
+
+#: views/templates/info.php:7
+msgid ""
+"You can manually insert ad blocks in your theme by using the following "
+"function"
+msgstr ""
+"Vou pouvez insérer des blocs d'annonce dans votre thème en utilisant cette "
+"fonction"
+
+#: views/templates/info.php:12
+msgid "Inserting ad blocks in the editor"
+msgstr "Ajouter des blocs d'annonces dans l'éditeur"
+
+#: views/templates/info.php:15
+msgid ""
+"You can manually insert ad blocks in the WordPress editor by using the button"
+msgstr ""
+"Vou pouvez insérer un bloc d'annonce dans l'éditeur de WordPress en "
+"utilisant ce bouton"
+
+#: views/templates/info.php:16
+msgid "This will insert a short code in the form"
+msgstr "Cela va insérer un shortcode comme"
+
+#: views/templates/info.php:18
+msgid "Alternatively, you can also insert this short code yourself."
+msgstr "Vous pouvez aussi ajouter ce shortcode"
+
+#: views/templates/info.php:21
+msgid "Disabling ads"
+msgstr "Désactiver les annonces"
+
+#: views/templates/info.php:23
+msgid ""
+"In order to disable some ads for a type of page, you can use one of the "
+"options above. But to disable ads in a particular post or page, you can use "
+"one of the following:"
+msgstr ""
+"Vous pouvez utiliser une des options ci-dessus pour désactiver des annonces "
+"pour un type de page. Mais pour désactiver les annonces pour un certain "
+"article ou une certaine page, veuillez utiliser:"
+
+#: views/templates/info.php:25
+msgid ""
+"suppresses all ads when displaying this post (except in a list of posts)"
+msgstr ""
+"désactive toutes les annonces lorsque cet article est affiché (sauf sur une "
+"liste d'articles)"
+
+#: views/templates/info.php:26
+msgid "suppresses the ad below the post or page title"
+msgstr "désactive l'annonce sous le titre de l'article ou de la page"
+
+#: views/templates/info.php:27
+msgid "suppresses the ad after the first paragraph"
+msgstr "désactive l'annonce après les premier paragraphe"
+
+#: views/templates/info.php:28
+msgid "suppresses the ad in the middle of the post or page"
+msgstr "désactive l'annonce au milieu de l'article ou de la page"
+
+#: views/templates/info.php:29
+msgid "suppresses the ad before the last paragraph"
+msgstr "désactive l'annonce avant le dernier paragraphe"
+
+#: views/templates/info.php:30
+msgid "suppresses the ad below the post or page content"
+msgstr "désactive l'annonce sous le contenu de l'article ou de la page"
+
+#: views/templates/info.php:31
+msgid "suppresses the ad below the comments"
+msgstr "désactive l'annonce sous les commentaires"
+
+#: views/templates/info.php:32
+msgid "suppresses the ad widget"
+msgstr "Désactiver le gadget d'annonce"
+
+#: views/templates/info.php:33
+msgid "suppresses the footer"
+msgstr "désactiver le pied de page"
+
+#: views/templates/info.php:34
+msgid "suppresses ad block X on this post or page e.g. &lt;!--NoAdBlock1--&gt;"
+msgstr ""
+"désactive le bloc d'annonce X sur cet article ou cette page par ex. &lt;!--"
+"NoAdBlock1--&gt;"
+
+#: views/templates/info.php:36
+msgid ""
+"Just add it to your post in the text editor. These will be present on the "
+"page but not visible and will partially or totally disable ads when this "
+"post or page is viewed."
+msgstr ""
+"Veuillez l'ajouter à votre article dans l'éditeur de texte. Ce sera présent "
+"sur la page mais invisible et désactivera les annonces partiellement ou "
+"complètement lorsque l'article ou la page seront affichés."
+
+#: views/templates/info.php:39
+msgid "Aligning ad blocks"
+msgstr "Aligner les blocs"
+
+#: views/templates/info.php:42
+msgid "In order to center an ad block, please wrap it in a div like this"
+msgstr ""
+"Afin de centrer un bloc d' annonce, veuillez l'envelopper dans un div comme "
+"cela"
+
+#: views/templates/info.php:43 views/templates/info.php:48
+#: views/templates/info.php:53
+msgid "YOUR AD CODE HERE"
+msgstr "AJOUTER LE CODE ICI"
+
+#: views/templates/info.php:47
+msgid ""
+"In order to align an ad block to the left, please wrap it in a div like this"
+msgstr ""
+"Afin d'aligner un bloc d' annonce sur la gauche, veuillez l'envelopper dans "
+"un div comme cela"
+
+#: views/templates/info.php:52
+msgid ""
+"In order to align an ad block to the right, please wrap it in a div like this"
+msgstr ""
+"Afin d'aligner un bloc d' annonce sur la droite, veuillez l'envelopper dans "
+"un div comme cela"
+
+#: views/templates/page-offers.php:9
+msgid ""
+"Define here different ad blocks by pasting adsense code. These blocks can "
+"then be placed at different locations on your site."
+msgstr ""
+"Definissez ici différents blocs d'annonce en collant votre code adsense. Ces "
+"blocs peuvent ensuite être placés à different emplacements."
+
+#: views/templates/page-offers.php:13
+msgid "Blocks"
+msgstr "Blocs"
+
+#: views/templates/page-offers.php:20
+msgid "Select for each location which ad block you would like to see displayed"
+msgstr "Sélectioner "
+
+#: views/templates/page-offers.php:22
+msgid "Placements"
+msgstr "Emplacements"
+
+#: views/templates/page-offers.php:29
+msgid "Set options influencing how the ads are displayed."
+msgstr "Réglages qui influencent la façon d'afficher les annonces."
+
+#: views/templates/page-offers.php:32
+msgid "Settings"
+msgstr "Réglages"
+
+#: views/templates/page-offers.php:39
+msgid "You should know this"
+msgstr "Bon à savoir"
+
+#: views/templates/page-offers.php:42
+msgid "Hints"
+msgstr "Conseils"
+
+#: views/templates/page-offers.php:61
+msgid ""
+"Do you like our <strong>WP Advertize It</strong> plugin? If yes - give us "
+"your "
+msgstr ""
+"Vous aimez notre plugin <strong>WP Annoncez il</strong> ? Si oui - Donnez-"
+"nous votre note "
+
+#: views/templates/page-offers.php:61
+msgid "rating! Thank you!"
+msgstr "Merci!"
+
+#: views/templates/placements.php:8
+msgid "not assigned"
+msgstr "non-assigné"
+
+#: views/templates/placements.php:14
+msgid "Placement Name"
+msgstr "Nom de l'emplacement"
+
+#: views/templates/placements.php:22
+msgid "Select Ad Block..."
+msgstr "Selectioner un bloc d'annonce..."
+
+#: views/templates/placements.php:26
+msgid "empty selection"
+msgstr "sélection vide"
+
+#: views/templates/placements.php:37
+msgid "Delete placement"
+msgstr "Supprimer l'emplacement"

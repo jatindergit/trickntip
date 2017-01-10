@@ -1,0 +1,1106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpai\n"
+"POT-Creation-Date: 2016-11-09 11:37+0100\n"
+"PO-Revision-Date: 2016-11-13 11:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: amazingweb GmbH\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/wp-advertize-it.php:420 classes/wpai-widget.php:90
+msgid "Ad Block:"
+msgstr "Ad Block:"
+
+#: classes/wpai-db.php:32
+msgid "Placement read successfully!"
+msgstr ""
+
+#: classes/wpai-db.php:33 classes/wpai-db.php:75 classes/wpai-db.php:139
+#: classes/wpai-db.php:168 classes/wpai-db.php:214 classes/wpai-db.php:243
+#: classes/wpai-db.php:276 classes/wpai-db.php:367 classes/wpai-db.php:413
+#: classes/wpai-db.php:438 classes/wpai-settings.php:523
+#: classes/wpai-settings.php:542 classes/wpai-settings.php:561
+#: classes/wpai-settings.php:580 classes/wpai-settings.php:602
+#: classes/wpai-settings.php:624 classes/wpai-settings.php:639
+#: classes/wpai-settings.php:663 classes/wpai-settings.php:678
+#: classes/wpai-settings.php:684
+msgid "SUCCESS"
+msgstr "Vorgang erfolgreich abgeschloßen!"
+
+#: classes/wpai-db.php:35 classes/wpai-db.php:77 classes/wpai-db.php:141
+#: classes/wpai-db.php:166 classes/wpai-db.php:208 classes/wpai-db.php:216
+#: classes/wpai-db.php:245 classes/wpai-db.php:278 classes/wpai-db.php:369
+#: classes/wpai-db.php:415 classes/wpai-db.php:440
+#: classes/wpai-settings.php:525 classes/wpai-settings.php:544
+#: classes/wpai-settings.php:563 classes/wpai-settings.php:582
+msgid "ERROR"
+msgstr "Fehler"
+
+#: classes/wpai-db.php:35
+msgid "Error is occured by reading placements!"
+msgstr "Fehler beim Ermitteln von Platzierungen!"
+
+#: classes/wpai-db.php:75 classes/wpai-db.php:139
+msgid "Placement saved successfully!"
+msgstr "Platzierung gespeichert!"
+
+#: classes/wpai-db.php:77 classes/wpai-db.php:141 classes/wpai-db.php:166
+#: classes/wpai-db.php:208 classes/wpai-db.php:216 classes/wpai-db.php:245
+#: classes/wpai-db.php:278 classes/wpai-db.php:369 classes/wpai-db.php:415
+#: classes/wpai-db.php:440
+msgid "Error is occured!"
+msgstr "Fehler"
+
+#: classes/wpai-db.php:168
+msgid "Blocks retrieved successfully!"
+msgstr ""
+
+#: classes/wpai-db.php:214 classes/wpai-db.php:276
+msgid "Block saved successfully!"
+msgstr "Block gespeichert!"
+
+#: classes/wpai-db.php:243
+msgid "Block removed successfully!"
+msgstr ""
+
+#: classes/wpai-db.php:367 classes/wpai-db.php:413
+msgid "Settings saved successfully!"
+msgstr "Einstellungen gespeichert!"
+
+#: classes/wpai-db.php:438
+msgid "Placement settings removed successfully!"
+msgstr ""
+
+#: classes/wpai-image-widget.php:16
+msgid "Image Ad"
+msgstr "Bild Ad"
+
+#: classes/wpai-image-widget.php:17
+msgid "WP Advertize It Image Ad"
+msgstr "WP Advertize It Bild Ad"
+
+#: classes/wpai-image-widget.php:64 classes/wpai-widget.php:62
+msgid "New title"
+msgstr "Neuer Titel"
+
+#: classes/wpai-image-widget.php:104 classes/wpai-widget.php:84
+msgid "Title:"
+msgstr "Name:"
+
+#: classes/wpai-image-widget.php:124
+msgid "Description:"
+msgstr "Beschreibung:"
+
+#: classes/wpai-image-widget.php:128
+msgid "Enter a description here"
+msgstr "Eine Beschreibung eingeben"
+
+#: classes/wpai-image-widget.php:130
+msgid "Link:"
+msgstr "Link:"
+
+#: classes/wpai-image-widget.php:134
+msgid "Enter a link here"
+msgstr "Einen link eingeben"
+
+#: classes/wpai-image-widget.php:136 classes/wpai-widget.php:108
+msgid "Category:"
+msgstr "Kategorie:"
+
+#: classes/wpai-image-widget.php:149 classes/wpai-widget.php:121
+msgid "Priority:"
+msgstr "Priorität:"
+
+#: classes/wpai-image-widget.php:156
+msgid "Resize to Max Width."
+msgstr "Auf maximale Breite vergrößern"
+
+#: classes/wpai-image-widget.php:162
+msgid "Open in new window."
+msgstr "In neuem Fenster öffnen"
+
+#: classes/wpai-settings.php:341
+msgid "Home page below title"
+msgstr "Homeseite, unter dem Titel"
+
+#: classes/wpai-settings.php:342
+msgid "Posts below title"
+msgstr "Artikel, unter dem Titel"
+
+#: classes/wpai-settings.php:343
+msgid "Posts below content"
+msgstr "Artikel, unter dem Text"
+
+#: classes/wpai-settings.php:344
+msgid "Posts below comments"
+msgstr "Artikel, unter Kommentaren"
+
+#: classes/wpai-settings.php:345
+msgid "Pages below title"
+msgstr "Seiten, unter dem Titel"
+
+#: classes/wpai-settings.php:346
+msgid "Pages below content"
+msgstr "Seiten, unter dem Text"
+
+#: classes/wpai-settings.php:347
+msgid "Pages below comments"
+msgstr "Seiten, unter Kommentaren"
+
+#: classes/wpai-settings.php:348
+msgid "Middle of post"
+msgstr "Artikel, mittig"
+
+#: classes/wpai-settings.php:349
+msgid "Middle of page"
+msgstr "Seite, mittig"
+
+#: classes/wpai-settings.php:350
+msgid "Before last post paragraph"
+msgstr "Artikel, vor dem letzten Paragraphen"
+
+#: classes/wpai-settings.php:351
+msgid "After first page paragraph"
+msgstr "Seite,  nach dem ersten Paragraphen"
+
+#: classes/wpai-settings.php:352
+msgid "Before last page paragraph"
+msgstr "Seite, vor dem letzten Paragraphen"
+
+#: classes/wpai-settings.php:353
+msgid "After first post paragraph"
+msgstr "Artikel, nach dem ersten Paragraphen"
+
+#: classes/wpai-settings.php:354
+msgid "Between posts"
+msgstr "Zwischen Artikeln"
+
+#: classes/wpai-settings.php:355
+msgid "Above everything"
+msgstr "Über Allem"
+
+#: classes/wpai-settings.php:356
+msgid "Below footer"
+msgstr "Unter Footer"
+
+#: classes/wpai-settings.php:361
+msgid "Hide button in visual editor"
+msgstr "\"Ad Block\" Button im Editor nicht anzeigen"
+
+#: classes/wpai-settings.php:362 classes/wpai-settings.php:395
+msgid "Suppress ads on posts"
+msgstr "Keine Werbung bei Artikeln"
+
+#: classes/wpai-settings.php:363
+msgid "Suppress ads on pages"
+msgstr "Keine Werbung bei Seiten"
+
+#: classes/wpai-settings.php:364
+msgid "Suppress ads on attachment page"
+msgstr "Keine Werbung bei Anhangseiten"
+
+#: classes/wpai-settings.php:365
+msgid "Suppress ads on category page"
+msgstr "Keine Werbung bei Kategorie-Seiten"
+
+#: classes/wpai-settings.php:366
+msgid "Suppress ads on tag page"
+msgstr "Keine Werbung bei Tag-Seiten"
+
+#: classes/wpai-settings.php:367
+msgid "Suppress ads on home page"
+msgstr "Keine Werbung auf Home-Seite"
+
+#: classes/wpai-settings.php:368
+msgid "Suppress ads on front page"
+msgstr "Keine Werbung bei Startseite"
+
+#: classes/wpai-settings.php:369
+msgid "Suppress ads on archive page"
+msgstr "Keine Werbung bei Archivseiten"
+
+#: classes/wpai-settings.php:370
+msgid "Suppress ads on error page"
+msgstr "Keine Werbung bei Fehler-Seiten"
+
+#: classes/wpai-settings.php:371
+msgid "Suppress ads on author page"
+msgstr "Keine Werbung bei Autor-Seiten"
+
+#: classes/wpai-settings.php:372
+msgid "Suppress ads for logged in users"
+msgstr "Keine Werbung bei eingeloggten Benutzer"
+
+#: classes/wpai-settings.php:373
+msgid "Suppress ads on WPtouch mobile site"
+msgstr "Keine Werbung bei WPtouch mobilen Seiten"
+
+#: classes/wpai-settings.php:374 classes/wpai-settings.php:396
+msgid "Suppress ads for specific post/page IDs"
+msgstr "Keine Werbung bei den Seiten-IDs"
+
+#: classes/wpai-settings.php:375
+msgid "Suppress ads for specific categories"
+msgstr "Keine Werbung bei den Kategorien"
+
+#: classes/wpai-settings.php:376
+msgid "Suppress ads for specific tags"
+msgstr "Keine Werbung bei den Tags"
+
+#: classes/wpai-settings.php:377
+msgid "Suppress ads for specific authors"
+msgstr "Keine Werbung bei den Autoren"
+
+#: classes/wpai-settings.php:378
+msgid "Suppress ads for specific post formats"
+msgstr "Keine Werbung bei den Artikelformaten"
+
+#: classes/wpai-settings.php:379
+msgid "Suppress ads for specific post types"
+msgstr "Keine Werbung bei den Artikeltypen"
+
+#: classes/wpai-settings.php:380 classes/wpai-settings.php:397
+msgid "Suppress ads for specific languages"
+msgstr "Keine Werbung bei den Sprachen"
+
+#: classes/wpai-settings.php:381 classes/wpai-settings.php:398
+msgid "Suppress ads for specific URL paths"
+msgstr "Keine Werbung bei den URL Pfaden"
+
+#: classes/wpai-settings.php:382 classes/wpai-settings.php:399
+msgid "Suppress ads for specific referrers"
+msgstr "Keine Werbung bei den Referrers"
+
+#: classes/wpai-settings.php:383 classes/wpai-settings.php:400
+msgid "Suppress ads for specific IP addresses"
+msgstr "Keine Werbung bei den IP Adressen"
+
+#: classes/wpai-settings.php:384 classes/wpai-settings.php:401
+msgid "Min. character count for inline ads"
+msgstr "Min. Zeichenanzahl für Werbung"
+
+#: classes/wpai-settings.php:385 classes/wpai-settings.php:402
+msgid "Min. word count for inline ads"
+msgstr "Min. Wörteranzahl für Werbung"
+
+#: classes/wpai-settings.php:386 classes/wpai-settings.php:403
+msgid "Min. paragraph count for inline ads"
+msgstr "Min. Paragraphenanzahl für Werbung"
+
+#: classes/wpai-settings.php:387
+msgid "After every N posts"
+msgstr "Nach jedem N. Artikel"
+
+#: classes/wpai-settings.php:388
+msgid "No. of ads between posts"
+msgstr "Anzahl von Blöcken zwischen Artikeln"
+
+#: classes/wpai-settings.php:389
+msgid "No. of ads below titles on home page"
+msgstr "Anzahl von Blöcken unter Titeln auf Home"
+
+#: classes/wpai-settings.php:390
+msgid "Max. number of displayed ads"
+msgstr "Max. Anzahl von angezeigten Blöcken"
+
+#: classes/wpai-settings.php:523 classes/wpai-settings.php:542
+msgid "Settings retrieved successfully!"
+msgstr "Einstellungen erfolgreich gelesen!"
+
+#: classes/wpai-settings.php:525 classes/wpai-settings.php:544
+msgid "Error: settings could not be retrieved!"
+msgstr "Fehler beim Ermitteln von Einstellungen!"
+
+#: classes/wpai-settings.php:561
+msgid "Tags retrieved  successfully!"
+msgstr "Tags erfolgreich gelesen!"
+
+#: classes/wpai-settings.php:563
+msgid "Error: tags could not be retrieved!"
+msgstr "Fehler beim Ermitteln von Tags!"
+
+#: classes/wpai-settings.php:580
+msgid "Categories retrieved  successfully!"
+msgstr "Kategorien erfolgreich gelesen!"
+
+#: classes/wpai-settings.php:582
+msgid "Error: categories could not be retrieved!"
+msgstr "Fehler beim Ermitteln von Kategorien!"
+
+#: classes/wpai-settings.php:602
+msgid "Users retrieved  successfully!"
+msgstr "Benutzer erfolgreich gelesen!"
+
+#: classes/wpai-settings.php:624
+msgid "Post formats retrieved  successfully!"
+msgstr "Artikelformate erfolgreich gelesen!"
+
+#: classes/wpai-settings.php:639
+msgid "Post types retrieved  successfully!"
+msgstr "Artikeltypen erfolgreich gelesen!"
+
+#: classes/wpai-settings.php:663 classes/wpai-settings.php:678
+msgid "Languages retrieved  successfully!"
+msgstr "Sprachen erfolgreich ermittelt"
+
+#: classes/wpai-settings.php:684
+msgid "Languages not defined!"
+msgstr "Sprachen nicht verfügbar"
+
+#: classes/wpai-widget.php:16 views/templates/placements.php:27
+msgid "Ad Block"
+msgstr "Ad Block"
+
+#: classes/wpai-widget.php:17
+msgid "WP Advertize It"
+msgstr "WP Advertize It"
+
+#: views/templates/blocks.php:10
+msgid "Add Ads-Block"
+msgstr "Ad Block hinzufügen"
+
+#: views/templates/blocks.php:26
+msgid "Ads-Block Name"
+msgstr "Ad Block Name"
+
+#: views/templates/blocks.php:35
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: views/templates/blocks.php:36
+msgid "Margin"
+msgstr "Abstand (margin)"
+
+#: views/templates/blocks.php:36
+msgid "px"
+msgstr ""
+
+#: views/templates/blocks.php:40
+msgid "Promote the Ad Block"
+msgstr "Eigenwerbung für den Block einschalten"
+
+#: views/templates/blocks.php:47
+msgid "Default Ads"
+msgstr "Standard Ad"
+
+#: views/templates/blocks.php:47
+msgid " of "
+msgstr " von "
+
+#: views/templates/blocks.php:47 views/templates/blocks.php:85
+#: views/templates/blocks.php:89 views/templates/preview.php:15
+msgid "Preview"
+msgstr "Vorschau"
+
+#: views/templates/blocks.php:50
+msgid ""
+"Not all ads javascripts support rotation (writing into document from an "
+"asynchronously loaded javascript). Test it."
+msgstr ""
+"Nicht alle ADS JavaScripts können rotiert werden (schreiben in das HTML mit "
+"einem nachträglich geladenem Script). Testen Sie es."
+
+#: views/templates/blocks.php:55
+msgid "Rotate Ads"
+msgstr "Ads Rotieren"
+
+#: views/templates/blocks.php:56
+msgid "every"
+msgstr "jede"
+
+#: views/templates/blocks.php:56
+msgid "sec"
+msgstr "sec"
+
+#: views/templates/blocks.php:57
+msgid "Add Ads"
+msgstr "Neue Ads"
+
+#: views/templates/blocks.php:58
+msgid "Remove Ads"
+msgstr "Ad Löschen "
+
+#: views/templates/blocks.php:70
+msgid "Promotion duration (sec)"
+msgstr "Dauer von Eigenpromotion "
+
+#: views/templates/blocks.php:76
+msgid "Show promotion every (sec)"
+msgstr "Zeige Eigenpromotion alle (sec)"
+
+#: views/templates/blocks.php:77
+msgid "Negative number or 0 stops the promotion"
+msgstr "Ein negativer Wert schaltet Promotion aus"
+
+#: views/templates/blocks.php:81
+msgid "Show only if not sold currently"
+msgstr "Anzeigen nur falls noch nicht verkauft"
+
+#: views/templates/blocks.php:85
+msgid "Currently sold Ads"
+msgstr "Verkaufter Ad"
+
+#: views/templates/blocks.php:86
+msgid ""
+"If the Ad is not empty, the 'Default ads' will be not shown to your "
+"visitors. The promotion ad can be still shown."
+msgstr ""
+"Falls der Ad Code nicht leer ist, werden Standart Ads nicht angezeigt. Die "
+"Eigenwerbung kann immer noch benutzt werden."
+
+#: views/templates/blocks.php:89
+msgid "Block's self promotion"
+msgstr "Blocks Eigenpromotion"
+
+#: views/templates/blocks.php:95
+msgid "Delete Block"
+msgstr "Block löschen"
+
+#: views/templates/blocks.php:96 views/templates/placements.php:53
+#: views/templates/settings.php:13
+msgid "Reset Changes"
+msgstr "Änderungen Verwerfen"
+
+#: views/templates/blocks.php:97 views/templates/placements.php:54
+#: views/templates/settings.php:14
+msgid "Save"
+msgstr "Speichern"
+
+#: views/templates/info.php:5
+msgid "Inserting ad blocks in your theme"
+msgstr "Hinzufügen eines Ad Blocks Ihrem WP-Thema"
+
+#: views/templates/info.php:7
+msgid ""
+"You can manually insert ad blocks in your theme by using the following "
+"function"
+msgstr ""
+"Sie können einen Ad Block auch manuell (via PHP code) Ihrem WP-Thema "
+"hinzufügen, mit Hilfe folgender Funktion:"
+
+#: views/templates/info.php:12
+msgid "Inserting ad blocks in the editor"
+msgstr "Hinzufügen eines Ad Blocks mit dem WP-Editor"
+
+#: views/templates/info.php:15
+msgid ""
+"You can manually insert ad blocks in the WordPress editor by using the button"
+msgstr ""
+"Sie können einen Ad Block auch mit dem WordPress-Editor einer Seite oder "
+"einem Artikel hinzufügen, mit dem Button"
+
+#: views/templates/info.php:16
+msgid "This will insert a short code in the form"
+msgstr "Mit dem Link fügen Sie einen 'short code' in den Text"
+
+#: views/templates/info.php:18
+msgid "Alternatively, you can also insert this short code yourself."
+msgstr ""
+"Natürlich können Sie den 'short code' auch manuell in den Text einfügen."
+
+#: views/templates/info.php:21
+msgid "Disabling ads"
+msgstr "Ads ausschalten"
+
+#: views/templates/info.php:23
+msgid ""
+"In order to disable some ads for a type of page, you can use one of the "
+"options above. But to disable ads in a particular post or page, you can use "
+"one of the following:"
+msgstr ""
+"Um einige Ads für bestimmte Typen von Seiten auszuschalten, benutzen Sie die "
+"Einstellungen im Einstellungen-Tab.  Um Werbung für bestimmte Artikel oder "
+"Seiten zu blockieren, können Sie die Short Codes nutzen. "
+
+#: views/templates/info.php:25
+msgid ""
+"suppresses all ads when displaying this post (except in a list of posts)"
+msgstr "Unterdrückt alle Ads Für den Artikel (ausser in der Liste von Artikel)"
+
+#: views/templates/info.php:26
+msgid "suppresses the ad below the post or page title"
+msgstr "Unterdrückt Ads unter dem Artikel-, oder Seitentitel "
+
+#: views/templates/info.php:27
+msgid "suppresses the ad after the first paragraph"
+msgstr "Nicht unter dem ersten Paragraphen"
+
+#: views/templates/info.php:28
+msgid "suppresses the ad in the middle of the post or page"
+msgstr "Nicht in der Mitte einer Seite oder eines Artikels"
+
+#: views/templates/info.php:29
+msgid "suppresses the ad before the last paragraph"
+msgstr "Nicht vor dem letzten Paragraphen"
+
+#: views/templates/info.php:30
+msgid "suppresses the ad below the post or page content"
+msgstr "Nicht unter dem Text einer Seite oder eines Artikels"
+
+#: views/templates/info.php:31
+msgid "suppresses the ad below the comments"
+msgstr "Nicht unter Kommentaren"
+
+#: views/templates/info.php:32
+msgid "suppresses the ad widget"
+msgstr "Ausschalten die Ad Widgets"
+
+#: views/templates/info.php:33
+msgid "suppresses the footer"
+msgstr "Nicht im Footer"
+
+#: views/templates/info.php:34
+msgid "suppresses ad block X on this post or page e.g. &lt;!--NoAdBlock1--&gt;"
+msgstr ""
+"Unterdrückt Ad Block X für Artikel oder Seite (z.B. &lt;!--NoAdBlock1--&gt;)"
+
+#: views/templates/info.php:36
+msgid ""
+"Just add it to your post in the text editor. These will be present on the "
+"page but not visible and will partially or totally disable ads when this "
+"post or page is viewed."
+msgstr ""
+"Fügen Sie einfach die notwendige Codes im Texteditor. Diese werden auf der "
+"Seite nicht sichtbar sein, unterdrücken aber komplett oder teilweise die "
+"Werbung."
+
+#: views/templates/info.php:39
+msgid "Aligning ad blocks"
+msgstr "Ausrichtung von Ad Blöcken"
+
+#: views/templates/info.php:42
+msgid "In order to center an ad block, please wrap it in a div like this"
+msgstr ""
+"Um einen Ad Block zu zentrieren, können Sie das HTML-Konstrukt benutzen"
+
+#: views/templates/info.php:43 views/templates/info.php:48
+#: views/templates/info.php:53
+msgid "YOUR AD CODE HERE"
+msgstr "Ihr Ad Code hier"
+
+#: views/templates/info.php:47
+msgid ""
+"In order to align an ad block to the left, please wrap it in a div like this"
+msgstr ""
+"Um einen Ad Block linksbündig ausrichten, können Sie das HTML-Konstrukt "
+"benutzen"
+
+#: views/templates/info.php:52
+msgid ""
+"In order to align an ad block to the right, please wrap it in a div like this"
+msgstr ""
+"Um einen Ad Block rechtsbündig ausrichten, können Sie das HTML-Konstrukt "
+"benutzen"
+
+#: views/templates/page-offers.php:9
+msgid ""
+"Define here different ad blocks by pasting adsense code. These blocks can "
+"then be placed at different locations on your site."
+msgstr ""
+"Definieren Sie Ad Blöcke durch Hinzufügen von z.B. AdSense Code. Die Blöcke "
+"können Sie auf unterschiedlichen Stellen auf Ihrer Seite platzieren."
+
+#: views/templates/page-offers.php:13
+msgid "Blocks"
+msgstr "Blöcke"
+
+#: views/templates/page-offers.php:20
+msgid "Select for each location which ad block you would like to see displayed"
+msgstr "Wählen Sie einen Ad Block für jede Platzierung aus"
+
+#: views/templates/page-offers.php:22
+msgid "Placements"
+msgstr "Platzierungen"
+
+#: views/templates/page-offers.php:29
+msgid "Set options influencing how the ads are displayed."
+msgstr "Einstellungen der Ad Anzeigefunktionen"
+
+#: views/templates/page-offers.php:32 views/templates/placement-settings.php:6
+#: views/templates/placements.php:48
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: views/templates/page-offers.php:39
+msgid "You should know this"
+msgstr "Tipps und Tricks"
+
+#: views/templates/page-offers.php:42
+msgid "Hints"
+msgstr "Tipps"
+
+#: views/templates/page-offers.php:52
+msgid ""
+"Do you like our <strong>WP Advertize It</strong> plugin? If yes - give us "
+"your "
+msgstr ""
+"Gefällt Ihnen <strong>WP Advertize It</strong> Plugin? Falls ja, geben Sie "
+"uns"
+
+#: views/templates/page-offers.php:52
+msgid "rating! Thank you!"
+msgstr "Rating! Danke!"
+
+#: views/templates/placement-settings.php:16
+msgid "Save and Close"
+msgstr "Speichern und schließen"
+
+#: views/templates/placement-settings.php:17
+msgid "Reset to default"
+msgstr "Voreinstellungen setzen"
+
+#: views/templates/placement-settings.php:18
+msgid "Close"
+msgstr "Schließen"
+
+#: views/templates/placements.php:5
+msgid "Sort By :"
+msgstr "Sortieren nach:"
+
+#: views/templates/placements.php:7
+msgid "Name"
+msgstr "Name"
+
+#: views/templates/placements.php:8 views/templates/placements.php:43
+msgid "Priority"
+msgstr "Priorität"
+
+#: views/templates/placements.php:17
+msgid "not assigned"
+msgstr "nicht zugeordnet"
+
+#: views/templates/placements.php:23
+msgid "Placement Name"
+msgstr "Wo"
+
+#: views/templates/placements.php:30
+msgid "Select Ad Block..."
+msgstr "Wählen Sie einen Ad Block..."
+
+#: views/templates/placements.php:34
+msgid "empty selection"
+msgstr "Auswahl leeren"
+
+#: views/templates/placements.php:52
+msgid "Delete placement"
+msgstr "Platzierung löschen"
+
+#~ msgid "Select Ads-Block..."
+#~ msgstr "Wählen Sie einen AD Block "
+
+#~ msgid "Preview map"
+#~ msgstr "Vorschau"
+
+#~ msgid "Marker successfully updated!"
+#~ msgstr "Ort aktualisiert!"
+
+#~ msgid "Success"
+#~ msgstr "Erledigt"
+
+#~ msgid "FAILURE: marker could not be updated!"
+#~ msgstr "Fehler: Der Ort kann nicht aktualisiert werden!"
+
+#~ msgid "Error"
+#~ msgstr "Fehler"
+
+#~ msgid ""
+#~ "0 reference points are defined. You need to define 2 points before a "
+#~ "Place can be added!"
+#~ msgstr ""
+#~ "Sie haben bislang keine Referenzpunkte festgelegt. Erstellen Sie 2 "
+#~ "Referenzpunkte, bevor Sie eine Markierung erzeugen können."
+
+#~ msgid "Add 2 reference"
+#~ msgstr "2. Referenzpunkt hinzufügen"
+
+#~ msgid ""
+#~ "1 reference point is defined. You need to define 2 points before a Place "
+#~ "can be added!"
+#~ msgstr ""
+#~ "Sie haben bislang nur 1 Referenzpunkt festgelegt. Sie benötigen noch "
+#~ "einen, bevor Sie eine Markierung erzeugen können."
+
+#~ msgid "Add 1 more reference"
+#~ msgstr "Einen weiteren Referenzpunkt hinzufügen"
+
+#~ msgid ""
+#~ "You can define only 2 reference points. To define a new one, remove one "
+#~ "of the existing."
+#~ msgstr ""
+#~ "Sie können nur 2 Referenzpunkte festlegen. Um einen neuen Referenzpunkt "
+#~ "zu erstellen, löschen Sie bitte zuvor einen bestehenden Referenzpunkt."
+
+#~ msgid "Remove one reference"
+#~ msgstr "Referenzpunkt löschen"
+
+#~ msgid "Please check the address, Google returns: "
+#~ msgstr "Bitte überprüfen Sie die Adresse. Google-Meldung:"
+
+#~ msgid "The location not found or the 'Get Coordinates' button not pressed"
+#~ msgstr ""
+#~ "Der Ort wurde nicht gefunden oder der \"Koordinaten ermitteln“-Button "
+#~ "wurde nicht betätigt"
+
+#~ msgid "FAILURE: Reference point could not be created!"
+#~ msgstr "Fehler: Der Referenzpunkt kann nicht erstellt werden!"
+
+#~ msgid ""
+#~ "The language code should be maximum of 2 letters. E.g. for English it "
+#~ "could be \"en\"."
+#~ msgstr "Der Sprach-Code darf maximal 2 Buchstaben lang sein."
+
+#~ msgid "Failure!"
+#~ msgstr "Fehler!"
+
+#~ msgid "Please input numbers(e.g. 5, -10 etc)"
+#~ msgstr "Geben Sie Abstand ein (in Zahlen, z.B. 5, -10 usw.)"
+
+#~ msgid "The uploaded file could not be moved to %s."
+#~ msgstr "Die hochgeladene Datei kann nicht auf %s verschoben werden."
+
+#~ msgid ""
+#~ "Type the location on your map to position the Google Map, e.g. Germany or "
+#~ "Munich or Black Sea:"
+#~ msgstr ""
+#~ "Geben Sie einen Ort ein, zu dem die Google Maps-Karte positioniert werden "
+#~ "soll, z.B. \"Deutschland\", \"Berlin\" oder \"Nordsee\":"
+
+#~ msgid " Pane Google Map to "
+#~ msgstr "Google Maps zum Ort bewegen"
+
+#~ msgid "Error: image not found"
+#~ msgstr "Fehler: Bild nicht gefunden"
+
+#~ msgid ""
+#~ "Error: the map could not be saved (Check whether the attachment is "
+#~ "already used)!"
+#~ msgstr ""
+#~ "Fehler: die Karte kann nicht gespeichert werden (Überprüfen Sie, ob die "
+#~ "Mediadatei schon benutzt wird)!"
+
+#~ msgid "Error: the map could not be removed!"
+#~ msgstr "Fehler: die Karte kann nicht gelöscht werden."
+
+#~ msgid "map removed"
+#~ msgstr "Karte entfernt"
+
+#~ msgid "ERROR: delete of markers failed!"
+#~ msgstr "Fehler: Ort konnte nicht entfernt werden!"
+
+#~ msgid "ERROR: insert of a marker failed!"
+#~ msgstr "Fehler: Ort konnte nicht erzeugt werden!"
+
+#~ msgid "FAILURE: marker description could not be updated!"
+#~ msgstr "Fehler: Ortsbeschreibung konnte nicht aktualisiert werden!"
+
+#~ msgid "popup offset saved"
+#~ msgstr "Popup Abstand gespeichert"
+
+#~ msgid ""
+#~ "Error: offset could not be saved. Check that the values are numbers (e.g. "
+#~ "5, -10 etc.)"
+#~ msgstr ""
+#~ "Fehler: Abstand konnte nicht gespeichert werden. Überprüfen Sie die "
+#~ "Werte, es müssen numerische Werte sein (z.B. \"-5\", \"10\")"
+
+#~ msgid "popup location saved"
+#~ msgstr "Popup Position gespeichert"
+
+#~ msgid "Error: popup location could not be saved."
+#~ msgstr "Fehler: Popup Position konnte nicht gespeichert werden."
+
+#~ msgid "map marked as free hand map"
+#~ msgstr "Die Karte ist als \"Freihandkarte\" markiert."
+
+#~ msgid "Error: the map could not be saved as \"Free Hand Map\""
+#~ msgstr ""
+#~ "Fehler: die Karte konnte nicht als \"Freihandkarte\" markiert werden."
+
+#~ msgid "Map file:"
+#~ msgstr "Karte (Datei):"
+
+#~ msgid " (RE)LOAD MAP "
+#~ msgstr "Karte (neu)laden"
+
+#~ msgid "Remove map including ALL markers?"
+#~ msgstr "Wollen Sie die Karte samt ALLE Orte löschen?"
+
+#~ msgid ""
+#~ "The map and all its markers will be permanently deleted and cannot be "
+#~ "recovered. Are you sure?"
+#~ msgstr ""
+#~ "Die Karte und alle Orte werden gelöscht werden. Sind Sie sicher das Sie "
+#~ "das tun möchten?"
+
+#~ msgid ""
+#~ "Freehand Map. You can define your Places by clicking on the image in the "
+#~ "\"Maps &amp; Places\""
+#~ msgstr ""
+#~ "Nicht-geographische Karte. Sie können Orte erzeugen indem Sie auf die "
+#~ "Karte klicken (in \"Maps &amp; Places\")"
+
+#~ msgid ""
+#~ "Two reference points are defined. You can remove them and redefine them "
+#~ "or go ahead and define your Places"
+#~ msgstr ""
+#~ "Die beiden Referenzpunkte sind nun definiert. Sie können die "
+#~ "Referenzpunkte löschen und neu festlegen oder mit der Erstellung von "
+#~ "Orten auf der Karte beginnen"
+
+#~ msgid ""
+#~ "%d reference point(s) defined. You need to define two reference points. "
+#~ "Click on the map at the point you know (a city you know). Tipp: take a "
+#~ "point on a border or river.<br/>Alternatively you can define the Map as "
+#~ "<Strong>'Free Hand Map'</Strong> where you can place Markers without "
+#~ "coordinates, just by clicking on the map."
+#~ msgstr ""
+#~ "%d Referenzpunkte sind definiert. Zwei Referenzpunkte müssen definiert "
+#~ "werden. Klicken Sie eine Stelle an der Karte die Sie kennen (z.B. eine "
+#~ "Stadt, einen Fluss). <br/>Alternativ können Sie die Karte als "
+#~ "<Strong>'Freihandskarte'</Strong> deklarieren. Auf der Karte können Sie "
+#~ "dann die Markierungen mit einfachen Mousclicks ohne Geocoordinaten "
+#~ "erzeugen."
+
+#~ msgid " USE THE IMAGE WITHOUT GEO LOCATION "
+#~ msgstr "Bild ohne Geolokalisierung nutzen"
+
+#~ msgid "Maps available"
+#~ msgstr "Karten"
+
+#~ msgid " ADD NEW MAP "
+#~ msgstr "Karte hinzufügen"
+
+#~ msgid "File:"
+#~ msgstr "Datei:"
+
+#~ msgid "Markers:"
+#~ msgstr "Bilder:"
+
+#~ msgid "Add / Remove Markers"
+#~ msgstr "Bilder hinzufügen oder löschen"
+
+#~ msgid "Status:"
+#~ msgstr "Status:"
+
+#~ msgid "Calibrate via Google Map"
+#~ msgstr "Kalibrieren mit Google Map"
+
+#~ msgid "Sites:"
+#~ msgstr "Orte:"
+
+#~ msgid "Popup offset:"
+#~ msgstr "Pop-up Abstand:"
+
+#~ msgid " SAVE "
+#~ msgstr "Speichern"
+
+#~ msgid "Popup location"
+#~ msgstr "Pop-up Position"
+
+#~ msgid "Can be outside of the map"
+#~ msgstr "Darf außerhalb des Kartenbildes sein"
+
+#~ msgid "Keep inside the map"
+#~ msgstr "Darf nur innerhalb des Kartenbildes sein"
+
+#~ msgid " DELETE MAP "
+#~ msgstr "Karte löschen"
+
+#~ msgid " VIEW MAP "
+#~ msgstr "Karte anzeigen"
+
+#~ msgid "freehand"
+#~ msgstr "Nicht-geographische Karte"
+
+#~ msgid "2 reference points are defined"
+#~ msgstr "2 Referenzpunkte wurden definiert"
+
+#~ msgid "1 reference point is missing"
+#~ msgstr "Ein Referenzpunkt fehlt"
+
+#~ msgid "both of reference points are missing"
+#~ msgstr "Beide Referenzpunkte fehlen"
+
+#~ msgid "Enter address of location (e.g. \"Germany Munich\"):"
+#~ msgstr "Geben Sie eine Adresse ein (z.B. \"München Deutschland\")"
+
+#~ msgid " Get coordinates "
+#~ msgstr "Koordinaten ermitteln"
+
+#~ msgid ""
+#~ "No Markers defined for the Map. Please define first (in 'Map Manager')."
+#~ msgstr ""
+#~ "Keine Markierungsbilder sin festgelegt. Legen Sie diese fest (in 'Map "
+#~ "Manager')"
+
+#~ msgid "Latitude:"
+#~ msgstr "Breitengrad"
+
+#~ msgid "Longitude:"
+#~ msgstr "Längengrad"
+
+#~ msgid "Map new place"
+#~ msgstr "Neuen Ort markieren"
+
+#~ msgid "Click on the map to create a new place."
+#~ msgstr ""
+#~ "Klicken Sie auf der Karte um auf dieser einen neuen Ort zu erstellen"
+
+#~ msgid "Popup description, use HTML to format, e.g. &lt;br/&gt; for newline:"
+#~ msgstr ""
+#~ "Popuptext, benutzen Sie HTML beim Formatieren, z.B. &lt;br/&gt; für eine "
+#~ "neue Zeile:"
+
+#~ msgid " ADD MARKER "
+#~ msgstr "Markierung hinzufügen"
+
+#~ msgid " SAVE MARKER "
+#~ msgstr "Ort speichern"
+
+#~ msgid "Places list"
+#~ msgstr "Orte"
+
+#~ msgid "Map file: "
+#~ msgstr "Bilddatei"
+
+#~ msgid "Delete reference point"
+#~ msgstr "Referenzpunkt löschen"
+
+#~ msgid "REMOVE"
+#~ msgstr "Löschen"
+
+#~ msgid "SAVE"
+#~ msgstr "Speichern"
+
+#~ msgid "Select place marker:"
+#~ msgstr "Bild für Ortsmarkierung wählen:"
+
+#~ msgid "%d markers could not be removed because they are used."
+#~ msgstr "%d Bilder können nicht entfernt werden, weil sie benutzt werden."
+
+#~ msgid "Installation: error during preparing of maps!"
+#~ msgstr "Installation: Fehler beim Vorbereiten der Karten!"
+
+#~ msgid "Installation: error during preparing of maps (popups offset)!"
+#~ msgstr "Installation: Fehler beim Vorbereiten der Karten (Popup Abstand)!"
+
+#~ msgid "Installation: error during preparing of markers!"
+#~ msgstr "Installation: Fehler beim Vorbereiten der Markierungsbilder!"
+
+#~ msgid "Installation: error during upload of the marker %s to attachment!"
+#~ msgstr ""
+#~ "Installation: Fehler beim Hochladen des Markierungsbilds %s zu Medien!"
+
+#~ msgid "Installation: error during upload of the map %s to attachment!"
+#~ msgstr "Installation: Fehler beim Hochladen des Kartenbilds %s zu Medien!"
+
+#~ msgid "Remove the language including ALL descriptions in this language?"
+#~ msgstr ""
+#~ "Wollen Sie die Sprache samt ALLE Ortsbeschreibungen in der Sprache "
+#~ "löschen?"
+
+#~ msgid ""
+#~ "The language and all description in this language will be permanently "
+#~ "deleted and cannot be recovered. Are you sure?"
+#~ msgstr ""
+#~ "Wollen Sie die Sprache samt ALLE Ortsbeschreibungen in der Sprache "
+#~ "wirklich löschen?"
+
+#~ msgid "Please Donate"
+#~ msgstr "Hier spenden"
+
+#~ msgid "If you like this plugin, here's how you can say 'Thank You'"
+#~ msgstr ""
+#~ "Sie mögen unser Plugin? Hier können Sie sich mit einer Spende bedanken."
+
+#~ msgid "Appearance"
+#~ msgstr "Design"
+
+#~ msgid "Effects (JavaScript)"
+#~ msgstr "Effekte (JavaScript)"
+
+#~ msgid " SAVE CSS AND EFFECTS "
+#~ msgstr "CSS und Effekte speichern"
+
+#~ msgid "Languages available"
+#~ msgstr "Verfügbare Sprachen"
+
+#~ msgid ""
+#~ "Define the codes of languages you need. The codes are only used for map "
+#~ "shortcut. Use only 2 letters to create a code. E.g. for English it could "
+#~ "be \"en\"."
+#~ msgstr ""
+#~ "Legen Sie die Sprachen an, die Sie benötigen. Die Codes dienen nur der "
+#~ "Kennzeichnung bei den Map-Shortcuts verwendet (z.B. für Englisch können "
+#~ "Sie „EN“ verwenden). Ein Code darf maximal 2 Buchstaben lang sein."
+
+#~ msgid "Default Language (used by %d markers)"
+#~ msgstr "Standardsprache (benutzt bei %d Markierungen)"
+
+#~ msgid "Remove language (used by %d markers)"
+#~ msgstr "Sprache entfernen (benutzt bei %d Markierungen)"
+
+#~ msgid " ADD NEW LANGUAGE "
+#~ msgstr "Neue Sprache hinzufügen"
+
+#~ msgid "Default Language"
+#~ msgstr "Standardsprache"
+
+#~ msgid ""
+#~ "The default language is used if a marker's description is not available "
+#~ "for a requested language"
+#~ msgstr ""
+#~ "Die Standardsprache wird benutzt, falls für die Beschreibung eines Ortes "
+#~ "einmal keine Sprachversion hinterlegt wurde"
+
+#~ msgid "Link to our Homepage"
+#~ msgstr "Link auf unsere Website"
+
+#~ msgid ""
+#~ "If you like the plugin please support us by the link to our homepage from "
+#~ "the map image (right lower corner)"
+#~ msgstr ""
+#~ "Falls Ihnen das Plugin gefällt, unterstützen Sie uns bitte, indem Sie auf "
+#~ "dem Kartenbild mit einem Link auf unsere Website verweisen (rechte untere "
+#~ "Ecke)"
+
+#~ msgid "Yes, I allow to set the link"
+#~ msgstr "Ja, setzt den Link!"
+
+#~ msgid "No, no link please"
+#~ msgstr "Nein, keinen Link bitte"
+
+#~ msgid "Error: the language '%s' already exists!"
+#~ msgstr "Fehler: die Sprache '%s' ist schon angelegt."
+
+#~ msgid "Remove language (used by 0 markers)"
+#~ msgstr "Sprache entfernen (verwendet bei 0 Places)"
+
+#~ msgid ""
+#~ "Two reference points are defined. You can remove the point(s) and "
+#~ "redefine again or go to define your Places"
+#~ msgstr ""
+#~ "Die beiden Referenzpunkte sind nun definiert. Sie können die "
+#~ "Referenzpunkte löschen und neu festlegen oder mit der Erstellung von "
+#~ "Orten auf der Karte beginnen"
+
+#~ msgid "Enter address of the site to map (e.g. \"Germany Munich\"):"
+#~ msgstr "Geben Sie eine Adresse ein (z.B. \"München Deutschland\")"
+
+#~ msgid ""
+#~ "Define the codes of languages you need. The codes are only used for map "
+#~ "shortcut. E.g. for English it could be \"en\", \"ENG\" or \"English\", it "
+#~ "does not matter."
+#~ msgstr ""
+#~ "Legen Sie die Sprachen an, die Sie benötigen. Die Codes dienen nur der "
+#~ "Kennzeichnung bei den Map-Shortcuts verwendet (z.B. für Englisch können "
+#~ "Sie wahlweise „EN“, \"ENG\" oder \"English\" verwenden)"
